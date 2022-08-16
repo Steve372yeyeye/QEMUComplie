@@ -10,11 +10,11 @@
 ### 运行方法：
 macOS
 ```
-/bin/zsh -c "$(curl https://steve372yeyeye.github.io/osx.sh)"
+bash -c "$(curl https://steve372yeyeye.github.io/osx.sh)"
 ```
 Linux(Debian)
 ```
-/bin/zsh -c "$(curl https://steve372yeyeye.github.io/linux.sh)"
+bash -c "$(curl https://steve372yeyeye.github.io/linux.sh)"
 ```
 查看其他语言：
 
