@@ -14,4 +14,4 @@ bash -c "$(curl https://steve372yeyeye.github.io/osx.sh)"
 
 View other languages:
 
-[English]()
+[简体中文]()
