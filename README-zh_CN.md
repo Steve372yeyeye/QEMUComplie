@@ -11,3 +11,7 @@
 ```
 bash -c "$(curl https://steve372yeyeye.github.io/osx.sh)"
 ```
+
+查看其他语言：
+
+[English]()
