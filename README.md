@@ -5,6 +5,8 @@
 
 目前仅支持 macOS。请检查您的操作系统！
 
+更新内容：[点我查看](https://steve372yeyeye.github.io/update/qcomplie/)
+
 运行方法：
 ```
 bash -c "$(curl https://steve372yeyeye.github.io/osx.sh)"
