@@ -9,7 +9,7 @@
 
 运行方法：
 ```
-bash -c "$(curl https://steve372yeyeye.github.io/osx.sh)"
+/bin/zsh -c "$(curl https://steve372yeyeye.github.io/osx.sh)"
 ```
 
 查看其他语言：
