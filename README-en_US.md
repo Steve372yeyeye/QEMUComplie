@@ -14,4 +14,4 @@ bash -c "$(curl https://steve372yeyeye.github.io/osx.sh)"
 
 View other languages:
 
-[简体中文]()
+[简体中文](https://github.com/Steve372yeyeye/QEMUComplie/blob/main/README.md)
